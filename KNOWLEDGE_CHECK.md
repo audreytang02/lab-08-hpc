@@ -12,7 +12,11 @@ Redirect the command's output to `results/job-history.txt` and include the file 
 
 **Your answer:** Provide the entire command you used, including all CLI options.
 
-...
+Command used:
+
+sacct -S 2026-11-04 --format=JobID,JobName,NodeList,Partition,Account,User,State,Start,Elapsed > results/job-history.txt
+
+I used the sacct command to retrieve my Slurm job history since November 4, 2026. The output was saved to results/job-history.txt and includes the job ID, job name, node list, partition, account, user, state, start time, and elapsed time for each job.
 
 ## 2. Slurm: did every array task run at the same time?
 
@@ -22,9 +26,10 @@ You submitted your entire job array with one `sbatch` command, but Slurm schedul
 
 *Hint:* See [Part 1, Step 5](README.md#step-5-watch-the-job-array) in the README.
 
-**Your answer:** Did all tasks in the array start at the same time? Was the elapsed time identical for every task? Explain why or why not.
+**Your answer:** 
+Did all tasks in the array start at the same time? Was the elapsed time identical for every task? Explain why or why not.
 
-...
+No, all tasks in the array did not start at the same time. The tasks were scheduled in batches as GPU resources became available on the gpu-mig partition. The elapsed times were also not identical because different books required different amounts of processing time and tasks started and finished at different times.
 
 ## 3. Slurm: did my job use what it asked for?
 
@@ -36,5 +41,5 @@ Suppose your next job array has 1,000 books instead of 101. Before you submit it
 
 **Your answer:** How much memory and time did the task use, compared with what your script asked for? What would you change in your script, and why?
 
-...
+The task used 1.39 GB of memory and 15 seconds of wall-clock time. My job script requested 16 GB of memory and 5 minutes of time, so the actual usage was much lower than the requested resources. For future runs I could reduce the memory request and possibly reduce the time limit, since the completed task used only 8.71% of the requested memory and finished well under the time limit.
 

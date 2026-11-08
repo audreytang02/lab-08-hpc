@@ -1,0 +1,212 @@
+JobID           JobName        NodeList  Partition    Account      User      State               Start    Elapsed 
+------------ ---------- --------------- ---------- ---------- --------- ---------- ------------------- ---------- 
+22516591     ood_vscode      udc-aw37-1    gpu-mig     ds2022    txj5tx    TIMEOUT 2026-11-05T14:11:24   02:00:17 
+22516591.ba+      batch      udc-aw37-1                ds2022            CANCELLED 2026-11-05T14:11:24   02:00:19 
+22517482     ood_jupyt+   udc-aw32-13c0 interacti+     ds2022    txj5tx    TIMEOUT 2026-11-05T14:46:03   03:00:16 
+22517482.ba+      batch   udc-aw32-13c0                ds2022            CANCELLED 2026-11-05T14:46:03   03:00:17 
+22517504     ood_deskt+   udc-aw32-13c0 interacti+     ds2022    txj5tx    TIMEOUT 2026-11-05T14:47:32   03:00:17 
+22517504.ba+      batch   udc-aw32-13c0                ds2022            CANCELLED 2026-11-05T14:47:32   03:00:18 
+22656225_1    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:10:49   00:00:11 
+22656225_1.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:10:49   00:00:11 
+22656529_1    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:12   00:00:15 
+22656529_1.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:12   00:00:15 
+22656529_2    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:12   00:00:15 
+22656529_2.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:12   00:00:15 
+22656529_3    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:12   00:00:16 
+22656529_3.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:12   00:00:16 
+22656529_4    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:12   00:00:15 
+22656529_4.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:12   00:00:15 
+22656529_5    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:58   00:00:14 
+22656529_5.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:58   00:00:14 
+22656529_6    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:58   00:00:14 
+22656529_6.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:58   00:00:14 
+22656529_7    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:58   00:00:15 
+22656529_7.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:58   00:00:15 
+22656529_8    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:15:58   00:00:15 
+22656529_8.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:15:58   00:00:15 
+22656529_9    summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:17:39   00:00:18 
+22656529_9.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:17:39   00:00:18 
+22656529_10   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:17:39   00:00:15 
+22656529_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:17:39   00:00:15 
+22656529_11   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:17:39   00:00:16 
+22656529_11+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:17:39   00:00:16 
+22656529_12   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:17:39   00:00:15 
+22656529_12+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:17:39   00:00:15 
+22656529_13   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_13+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_14   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_14+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_15   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_15+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_16   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_16+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:09   00:00:13 
+22656529_17   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:40   00:00:12 
+22656529_17+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:40   00:00:12 
+22656529_18   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:40   00:00:13 
+22656529_18+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:40   00:00:13 
+22656529_19   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:40   00:00:13 
+22656529_19+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:40   00:00:13 
+22656529_20   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:18:40   00:00:13 
+22656529_20+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:18:40   00:00:13 
+22656529_21   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_21+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_22   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_22+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_23   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_23+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_24   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_24+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:05   00:00:14 
+22656529_25   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_25+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_26   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_26+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_27   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_27+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_28   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_28+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:19:28   00:00:14 
+22656529_29   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_29+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_30   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_30+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_31   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_31+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_32   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_32+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:20:22   00:00:14 
+22656529_33   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:21:29   00:00:14 
+22656529_33+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:21:29   00:00:14 
+22656529_34   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:21:29   00:00:14 
+22656529_34+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:21:29   00:00:14 
+22656529_35   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:21:29   00:00:14 
+22656529_35+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:21:29   00:00:14 
+22656529_36   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:21:29   00:00:15 
+22656529_36+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:21:29   00:00:15 
+22656529_37   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_37+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_38   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_38+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_39   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_39+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_40   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_40+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:21   00:00:15 
+22656529_41   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:43   00:00:12 
+22656529_41+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:43   00:00:12 
+22656529_42   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:43   00:00:13 
+22656529_42+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:43   00:00:13 
+22656529_43   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:43   00:00:13 
+22656529_43+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:43   00:00:13 
+22656529_44   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:22:43   00:00:13 
+22656529_44+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:22:43   00:00:13 
+22656529_45   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_45+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_46   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_46+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_47   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_47+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_48   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_48+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:16   00:00:14 
+22656529_49   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:42   00:00:13 
+22656529_49+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:42   00:00:13 
+22656529_50   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:42   00:00:13 
+22656529_50+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:42   00:00:13 
+22656529_51   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:42   00:00:14 
+22656529_51+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:42   00:00:14 
+22656529_52   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:23:42   00:00:14 
+22656529_52+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:23:42   00:00:14 
+22656529_53   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:16   00:00:12 
+22656529_53+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:16   00:00:12 
+22656529_54   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:16   00:00:12 
+22656529_54+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:16   00:00:12 
+22656529_55   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:16   00:00:11 
+22656529_55+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:16   00:00:11 
+22656529_56   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:16   00:00:13 
+22656529_56+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:16   00:00:13 
+22656529_57   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:35   00:00:14 
+22656529_57+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:35   00:00:14 
+22656529_58   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:35   00:00:15 
+22656529_58+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:35   00:00:15 
+22656529_59   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:35   00:00:14 
+22656529_59+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:35   00:00:14 
+22656529_60   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:35   00:00:15 
+22656529_60+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:35   00:00:15 
+22656529_61   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_61+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_62   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_62+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_63   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_63+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_64   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_64+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:24:56   00:00:14 
+22656529_65   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_65+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_66   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_66+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_67   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_67+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_68   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_68+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:24   00:00:14 
+22656529_69   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_69+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_70   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_70+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_71   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_71+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_72   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_72+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:25:56   00:00:13 
+22656529_73   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_73+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_74   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_74+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_75   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_75+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_76   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_76+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:26:34   00:00:13 
+22656529_77   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:02   00:00:15 
+22656529_77+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:02   00:00:15 
+22656529_78   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:02   00:00:14 
+22656529_78+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:02   00:00:14 
+22656529_79   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:02   00:00:14 
+22656529_79+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:02   00:00:14 
+22656529_80   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:02   00:00:15 
+22656529_80+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:02   00:00:15 
+22656529_81   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:54   00:00:14 
+22656529_81+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:54   00:00:14 
+22656529_82   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:54   00:00:14 
+22656529_82+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:54   00:00:14 
+22656529_83   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:54   00:00:15 
+22656529_83+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:54   00:00:15 
+22656529_84   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:27:54   00:00:14 
+22656529_84+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:27:54   00:00:14 
+22656529_85   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:20   00:00:13 
+22656529_85+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:20   00:00:13 
+22656529_86   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:20   00:00:12 
+22656529_86+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:20   00:00:12 
+22656529_87   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:20   00:00:13 
+22656529_87+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:20   00:00:13 
+22656529_88   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:20   00:00:13 
+22656529_88+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:20   00:00:13 
+22656529_89   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:46   00:00:14 
+22656529_89+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:46   00:00:14 
+22656529_90   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:46   00:00:15 
+22656529_90+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:46   00:00:15 
+22656529_91   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:46   00:00:15 
+22656529_91+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:46   00:00:15 
+22656529_92   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:28:46   00:00:15 
+22656529_92+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:28:46   00:00:15 
+22656529_93   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:29:54   00:00:15 
+22656529_93+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:29:54   00:00:15 
+22656529_94   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:29:54   00:00:15 
+22656529_94+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:29:54   00:00:15 
+22656529_95   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:29:54   00:00:16 
+22656529_95+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:29:54   00:00:16 
+22656529_96   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:29:54   00:00:15 
+22656529_96+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:29:54   00:00:15 
+22656529_97   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:30:46   00:00:14 
+22656529_97+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:30:46   00:00:14 
+22656529_98   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:30:46   00:00:14 
+22656529_98+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:30:46   00:00:14 
+22656529_99   summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:30:46   00:00:15 
+22656529_99+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:30:46   00:00:15 
+22656529_100  summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:30:46   00:00:14 
+22656529_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:30:46   00:00:14 
+22656529_101  summarize      udc-aw37-1    gpu-mig     ds2022    txj5tx  COMPLETED 2026-11-07T20:31:10   00:00:13 
+22656529_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-07T20:31:10   00:00:13 
